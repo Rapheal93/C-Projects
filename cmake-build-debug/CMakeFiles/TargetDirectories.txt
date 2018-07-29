@@ -1,0 +1,3 @@
+C:/Users/kaban/CLionProjects/COMP306A1/cmake-build-debug/CMakeFiles/COMP306A1.dir
+C:/Users/kaban/CLionProjects/COMP306A1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kaban/CLionProjects/COMP306A1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
