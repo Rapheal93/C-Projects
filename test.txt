@@ -1,36 +1,3 @@
-//: GoodDocs.cpp
-
-/* 
- Title: GoodDocs.cpp
- Description: Saying Hello with C++
- Date: January 3, 2009
- Author: Richard S. Huntrods
- Version: 1.0
- Copyright: 2009 Richard S. Huntrods
-*/
-
-/*
- DOCUMENTATION
- 
- Program Purpose:
- 	Demonstrate proper format for documentation, test plans and comments.
- 	Also demonstrate user prompts, keyboard input, simple calculations and output.
-
- Compile (assuming Cygwin is running): g++ -o GoodDocs GoodDocs.cpp
- Execution (assuming Cygwin is running): ./GoodDocs.exe
- 
- Notes: in Cygwin, main must return type int
- 
- Classes: none
-
- Variables:
- 	name - char array sized for 131 characters - used to store user's name (one word only)
- 	age - int - used to store user's age as an integer number
-*/
-
-/*
- TEST PLAN
- 
  Normal case:
  	>What is your name? Richard
  	>What is your age? 21
