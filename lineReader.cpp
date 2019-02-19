@@ -1,12 +1,3 @@
-/*
- Title: lineReader.cpp
- Description: printing each line in a file as enter button is pressed
- Date:
- Name: Raphael Onyedikachi Abangwu
- Student Number: 3389621
- Version: 1.0
-*/
-
 #include <iostream>
 #include <fstream>
 #include <vector>
