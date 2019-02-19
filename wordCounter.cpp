@@ -1,12 +1,3 @@
-/*
- Title: wordCounter.cpp
- Description: Counting the number of white space separated words in a file
- Date:
- Name: Raphael Onyedikachi Abangwu
- Student Number: 3389621
- Version: 1.0
-*/
-
 #include <iostream>
 #include <fstream>
 
