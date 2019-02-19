@@ -1,4 +1,4 @@
-# C-Projects
+ C plus plus-Projects
 
 Writing a program called wordCounter.cpp that opens any file by accpeting input from a user and counts the whitespace-separated words in that file.
 
